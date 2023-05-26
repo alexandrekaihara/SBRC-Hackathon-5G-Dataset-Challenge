@@ -3,6 +3,8 @@
 
 ![First Place Award Receive](award_receive.jpeg)
 
+The Brazilian Symposium on Computer Networks and Distributed Systems (SBRC) is the most relevant annual event in Brazil for researchers, academics, and industry professionals in computer networks and distributed systems. It fosters collaboration, knowledge exchange, and innovation, covering topics such as network protocols, cloud computing, cybersecurity, and IoT and SBRC plays a vital role in shaping the future of these fields in Brazil through presentations, networking, and addressing emerging trends and challenges.
+
 # Description
 The SMARTNESS / 5G Dataset Challenge Hackathon aims to stimulate the development of innovative solutions and the creation of insights using datasets (provided by the SMARTNESS Hackathon organizing committee) composed of adaptive video streaming (YouTube) and 5G network usage data in Brazil. To support problem solving, teams can use auxiliary datasets for data enrichment.
 
