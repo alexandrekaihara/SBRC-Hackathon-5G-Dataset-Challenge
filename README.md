@@ -9,5 +9,5 @@ A Hackathon SMARTNESS / 5G Dataset Challenge tem como objetivo instigar o desenv
 As equipes poderão desenvolver seus projetos em diversas linhas, como, por exemplo, análise exploratória de dados, desenvolvimento de insights inovadores usando 5G e os conjuntos de dados disponibilizados, modelos de Aprendizado de Máquina para predição, classificação, agrupamento, suporte à decisão, desenvolvimento de modelos de desempenho de aplicações no contexto de 5G e muito mais.
 
 # Execução
-A [Solução|https://github.com/alexandrekaihara/SBRC-Hackathon-5G-Dataset-Challenge/blob/main/UnBetas_5G_Solution.ipynb] do UnBetas 5G pode ser executado em um ambiente como o Google Colab. Basta enviar uma cópia e executar nesses ambientas. No arquivo de Solução encontra-se a resolução de todos os [desafios|https://github.com/alexandrekaihara/SBRC-Hackathon-5G-Dataset-Challenge/tree/main/challenges] e os seus respectivos story telling.
+A [Solução](https://github.com/alexandrekaihara/SBRC-Hackathon-5G-Dataset-Challenge/blob/main/UnBetas_5G_Solution.ipynb) do UnBetas 5G pode ser executado em um ambiente como o Google Colab. Basta enviar uma cópia e executar nesses ambientas. No arquivo de Solução encontra-se a resolução de todos os [desafios](https://github.com/alexandrekaihara/SBRC-Hackathon-5G-Dataset-Challenge/tree/main/challenges) e os seus respectivos story telling.
 
