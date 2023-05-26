@@ -1,7 +1,7 @@
 # SBRC Hackathon 5G Dataset Challenge
 1st place in the SBRC 2023 Hackathon organized by Ericsson and Unicamp in the context of 5G. The objective was to develop solutions and insights using machine learning on 5G network data in Brazil. This repository contains the solution provided by the UnBetas 5G group in the Hackathon, as well as all the files from the [event repository](https://github.com/intrig-unicamp/hackathon5G/tree/main).
 
-[FOTO]
+![First Place Award Receive](award_receive.jpeg)
 
 # Description
 The SMARTNESS / 5G Dataset Challenge Hackathon aims to stimulate the development of innovative solutions and the creation of insights using datasets (provided by the SMARTNESS Hackathon organizing committee) composed of adaptive video streaming (YouTube) and 5G network usage data in Brazil. To support problem solving, teams can use auxiliary datasets for data enrichment.
