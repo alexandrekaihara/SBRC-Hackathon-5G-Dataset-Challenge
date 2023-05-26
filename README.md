@@ -1,5 +1,5 @@
 # SBRC Hackathon 5G Dataset Challenge
-1º lugar na Hackathon da SBRC 2023 organizada pela Ericsson e a Unicamp no contexto de 5G. O objetivo foi desenvolver soluções e insights usando aprendizado de máquina sobre dados de redes 5G no Brasil. Este repositório contém a solução provida pelo grupo grupo UnBetas 5G no Hackathon.
+1º lugar na Hackathon da SBRC 2023 organizada pela Ericsson e a Unicamp no contexto de 5G. O objetivo foi desenvolver soluções e insights usando aprendizado de máquina sobre dados de redes 5G no Brasil. Este repositório contém a solução provida pelo grupo UnBetas 5G no Hackathon, assim como o todos os arquivos do [repositório do evento](https://github.com/intrig-unicamp/hackathon5G/tree/main).
 
 [FOTO]
 
